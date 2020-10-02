@@ -5,7 +5,7 @@ export class Home extends Component{
         return(
                     <div>
                       <header>
-                      
+                        <h3>test</h3>
                         <div className="container-fluid p-0">
                           <nav className="navbar navbar-expand-lg">
                             <a className="navbar-brand" href="#">

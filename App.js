@@ -5,7 +5,7 @@ function App() {
   return (
     <div>  
       <Home/>
-      <header>kishore</header>
+      <p>kishore</p>
     </div>
     
   );
