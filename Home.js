@@ -5,10 +5,10 @@ export class Home extends Component{
         return(
                     <div>
                       <header>
+                      <h1>Kishore yadav</h1>
                         <div className="container-fluid p-0">
                           <nav className="navbar navbar-expand-lg">
                             <a className="navbar-brand" href="#">
-                            <p>hello world</p>
                               <i className="fas fa-exchange-alt" /> Myfin</a>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                               <i className="fas fa-align-right text-light" />
